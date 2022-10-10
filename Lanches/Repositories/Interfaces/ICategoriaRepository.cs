@@ -4,6 +4,6 @@ namespace Lanches.Repositories.Interfaces
 {
     public interface ICategoriaRepository
     {
-        IEnumerable<Categoria> Categorias { get; set; }
+        IEnumerable<Categoria> Categorias { get; }
     }
 }
