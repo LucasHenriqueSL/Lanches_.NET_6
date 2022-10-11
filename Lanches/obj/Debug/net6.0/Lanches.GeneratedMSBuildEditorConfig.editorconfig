@@ -15,10 +15,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Users\lucas.lara\source\repos\Lanches_.NET_6\Lanches
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Users/lucas.lara/source/repos/Lanches_.NET_6/Lanches/Views/Home/Demo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZW1vLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/Users/lucas.lara/source/repos/Lanches_.NET_6/Lanches/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
